@@ -1,0 +1,14 @@
+{
+    "newUser":"Mahesh3",
+    "newPass":"Mahesh@12345",
+    "validUsername":"Reshma2",
+    "validPassword":"Reshma@123",
+    "invalidUsername":"Reshm56",
+    "invalidPassword":"Reshma@123",
+    "Name":"Reshma",
+    "country":"India",
+    "city":"Trivandrum",
+    "card":"112222334455",
+    "month":"May",
+    "year":"2026" 
+}
